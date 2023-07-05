@@ -4,4 +4,6 @@
 
 2- Sub Strings
 
-2- Bubble Sort
+3- Bubble Sort
+
+4- Stock Picker
